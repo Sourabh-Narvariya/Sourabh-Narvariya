@@ -10,14 +10,12 @@ I'm a passionate software developer specializing in **AI-powered applications**,
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-2D333B?style=for-the-badge&logo=react&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -89,7 +87,7 @@ Internship project focused on developing intelligent automation solutions.
 ## 💬 Let's Connect!
 
 - 📧 **Email:** sourabh.narvariya55@gmail.com
-- 💼 **LinkedIn:** [Sourabh Narvariya](https://linkedin.com/in/sourabh-narvariya)
+- 💼 **LinkedIn:** [Sourabh Narvariya](www.linkedin.com/in/sourabh-narvariya-255901281)
 - 🐙 **GitHub:** [@Sourabh-Narvariya](https://github.com/Sourabh-Narvariya)
 - 📱 **WhatsApp:** Available for professional inquiries
 
